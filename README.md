@@ -22,7 +22,7 @@
 
 | **应用设置与导出** | **课表导出效果预览** |
 | --- | --- |  
-| ![应用设置与导出](docs/images/settings-and-export.png) | ![课表导出效果预览](docs/images/settings-and-export.png) |  
+| ![应用设置与导出](docs/images/settings-and-export.png) | ![课表导出效果预览](docs/images/schedule-export-preview.png) |  
 
 
 ## 系统要求
