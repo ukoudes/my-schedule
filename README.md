@@ -16,14 +16,17 @@
 - 可导出高清 PNG图片、PDF文件、ICS日历文件，或同步到苹果日历。
 - 同时支持 Apple 芯片与 Intel 芯片 Mac。
 
-| 添加和编辑课程 | 校园地图 |
+| 添加和编辑课程 | **应用设置与导出** |
 | --- | --- |
-| ![添加课程](docs/images/course-editor.png) | ![校园地图](docs/images/campus-map.png) |  
+| ![添加课程](docs/images/course-editor.png) | ![应用设置与导出](docs/images/settings-and-export.png) |  
 
-| **应用设置与导出** | **课表导出效果预览** |
-| --- | --- |  
-| ![应用设置与导出](docs/images/settings-and-export.png) | ![课表导出效果预览](docs/images/schedule-export-preview.png) |  
+| **课表导出效果预览** |
+| --- | 
+| ![课表导出效果预览](docs/images/schedule-export-preview.png) | 
 
+| **校园地图** |
+| --- | 
+| ![校园地图](docs/images/campus-map.png) |
 
 ## 系统要求
 
