@@ -1,0 +1,9 @@
+.DS_Store
+dist/
+DerivedData/
+.build/
+*.p12
+*.cer
+*.mobileprovision
+.env
+notarytool-profile.txt

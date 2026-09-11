@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>我的课表</string>
+	<key>CFBundleExecutable</key>
+	<string>ScheduleWidget</string>
+	<key>CFBundleIconFile</key>
+	<string>AppIcon.png</string>
+	<key>CFBundleIdentifier</key>
+	<string>local.schedule.widget</string>
+	<key>CFBundleName</key>
+	<string>我的课表</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.0</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>LSMinimumSystemVersion</key>
+	<string>14.0</string>
+	<key>NSCalendarsFullAccessUsageDescription</key>
+	<string>用于创建“我的课表”日历并同步、更新本学期课程。</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>用于将课表课程同步到苹果日历。</string>
+</dict>
+</plist>
