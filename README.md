@@ -18,7 +18,12 @@
 
 | 添加和编辑课程 | 校园地图 |
 | --- | --- |
-| ![添加课程](docs/images/course-editor.png) | ![校园地图](docs/images/campus-map.png) |
+| ![添加课程](docs/images/course-editor.png) | ![校园地图](docs/images/campus-map.png) |  
+
+| **应用设置与导出** | **课表导出效果预览** |
+| --- | --- |  
+| ![应用设置与导出](docs/images/settings-and-export.png) | ![课表导出效果预览](docs/images/settings-and-export.png) |  
+
 
 ## 系统要求
 
